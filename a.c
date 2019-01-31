@@ -4,8 +4,8 @@ int add(int, int);
 
 int main(int argc, char** argv)
 {
-    int a;
-    int b;
+    int a=1;
+    int b=2;
     int c;
     c=add(a,b);
     printf("a=%d\n",a);
